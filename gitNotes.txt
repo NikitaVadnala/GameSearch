@@ -1,0 +1,10 @@
+git config --global user.name "user_name"
+git config --global user.email email
+git config --list
+
+untracked -> Modified -> stagging -> 
+git init
+git status
+git add [., filename]
+git commit -m "Message(to retrack)"
+git log
